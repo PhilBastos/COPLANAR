@@ -2,4 +2,6 @@
 
 Identidade visual por Philipe Bastos.
 
-Página completa em preparação para GitHub Pages.
+[Ver o case completo](https://PhilBastos.github.io/COPLANAR/) · [English](https://PhilBastos.github.io/COPLANAR/en/)
+
+Conceito, logo, paleta, tipografia, sistema gráfico e aplicações.
